@@ -16,3 +16,5 @@ This repository contains a comprehensive Library Management System developed usi
 **Fine Management:** Implement a fine system for overdue books and manage the fines associated with late returns.
 
 **Reporting:** Generate reports and statistics on book availability, user activity, and overall library performance.
+
+![image](https://github.com/f219095/OOP/assets/92564229/c6b8cb31-3453-4585-8d89-fabb243c391f)
